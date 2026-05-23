@@ -10,6 +10,8 @@ Ensure you have the following installed and ready:
 1. **Python 3.9+** (Installed and added to your system `PATH`)
 2. **Google Chrome** browser
 3. **API Keys**:
+   - API KEYS ALREADY ADDED YOU CAN SKIP THIS PART
+   - YOU MIGHT WANT TO CHANGE THE GEMINI API KEY WHEN YOU RUN AS IT MIGHT RUN OUT
    - **Google Gemini API Key**: [Get a key from Google AI Studio](https://aistudio.google.com/).
    - **Tavily API Key**: [Get a key from Tavily Search API](https://tavily.com/).
 
